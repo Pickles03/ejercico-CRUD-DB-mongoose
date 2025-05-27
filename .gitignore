@@ -1,0 +1,9 @@
+# Ignore environment variables
+.env
+
+# Node.js dependencies
+node_modules/
+
+# Optional: logs and OS junk
+*.log
+.DS_Store
